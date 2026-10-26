@@ -31,3 +31,7 @@ Keep up routine care to avoid bigger bills. Compare food prices by cost per day,
 The **Pet Care Log and Expense Tracker** has the pet profile and emergency sheet, vet visit log, vaccine record, medication log, feeding routine and monthly cost tracker: https://payhip.com/b/h3avA ($6)
 
 More guides: https://patreon.com/123black
+
+## Free calculator
+
+[Pet cost calculator](https://blacksgit.github.io/pet-cost/): first-year and yearly cost for a dog or cat, plus an emergency fund target.
