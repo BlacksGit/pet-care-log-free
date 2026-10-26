@@ -28,6 +28,6 @@ Keep up routine care to avoid bigger bills. Compare food prices by cost per day,
 
 ## Want the printable log?
 
-The **Pet Care Log and Expense Tracker** has the pet profile and emergency sheet, vet visit log, vaccine record, medication log, feeding routine and monthly cost tracker: https://spectre5.gumroad.com/l/PLACEHOLDER ($6)
+The **Pet Care Log and Expense Tracker** has the pet profile and emergency sheet, vet visit log, vaccine record, medication log, feeding routine and monthly cost tracker: https://payhip.com/b/h3avA ($6)
 
 More guides: https://patreon.com/123black
